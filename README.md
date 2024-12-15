@@ -8,8 +8,8 @@ I am a frontend developer/lead who loves Angular, React and Qwik. I do engineeri
 
 * 🌍  I am based in London
 * ✉️  You can contact me at [contact@oscarlagatta.com](mailto:contact@oscarlagatta.com)
-* 🧠  I'm learning Qwik
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I am learning Qwik
+* 🤝  I am open to collaborating on Projects
 
 <a href="https://www.github.com/oscarlagatta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscarlagatta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
