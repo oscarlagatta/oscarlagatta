@@ -6,7 +6,7 @@ Senior Frontend Developer/Lead
 
 I am a frontend developer/lead who loves Angular, React and Qwik. I do engineering, consultancy and training
 
-* 🌍  I'm based in London
+* 🌍  I am based in London
 * ✉️  You can contact me at [contact@oscarlagatta.com](mailto:contact@oscarlagatta.com)
 * 🧠  I'm learning Qwik
 * 🤝  I'm open to collaborating on Projects
