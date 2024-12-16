@@ -10,7 +10,7 @@ I specialise in software engineering, consultancy and training.
 
 * 🌍  I am based in London
 * ✉️  You can contact me at [contact@oscarlagatta.com](mailto:contact@oscarlagatta.com)
-* 🧠  I am learning Qwik
+* 🧠  I am learning Web 3
 * 🤝  I am open to collaborating on Projects
 
 <a href="https://www.github.com/oscarlagatta" target="_blank" rel="noreferrer"><img
