@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Developer/Lead
 ------------------------------
 
-I am a frontend developer/lead who loves Angular, React and Qwik. I specialise in software engineering, consultancy and training.
+I am a frontend developer/lead who loves React, Angular, C#, NestJS. 
+
+I specialise in software engineering, consultancy and training.
 
 * 🌍  I am based in London
 * ✉️  You can contact me at [contact@oscarlagatta.com](mailto:contact@oscarlagatta.com)
